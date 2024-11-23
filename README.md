@@ -74,6 +74,8 @@ The **AI Learning** mobile application leverages Artificial Intelligence (AI) to
 │      ├── certificate_screen.dart # Certificates
 └── README.md
 ```
+![image](https://github.com/user-attachments/assets/5083522c-9ab9-403e-a788-2f6adb6303a7)
+
 
 ---
 
