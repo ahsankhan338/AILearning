@@ -37,7 +37,7 @@ The **AI Learning** mobile application leverages Artificial Intelligence (AI) to
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/ahsankhan338/AILearning.git
-   cd ai-learning
+   cd AILearning
    ```
 
 2. **Set Up Frontend**:
