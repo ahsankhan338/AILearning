@@ -54,21 +54,24 @@ The **AI Learning** mobile application leverages Artificial Intelligence (AI) to
 
 ## Project Structure
 ```
-├── backend
-│   ├── manage.py          # Backend entry point
-│   ├── requirements.txt   # Python dependencies
-│   ├── app
-│   │   ├── models.py      # Database models
-│   │   ├── views.py       # API endpoints
-│   │   └── utils.py       # Helper functions
-├── frontend
-│   ├── pubspec.yaml       # Flutter dependencies
-│   ├── lib
-│   │   ├── main.dart      # Flutter app entry point
-│   │   ├── screens        # UI screens
-│   │   └── widgets        # Reusable widgets
-├── docs
-│   └── model_integration.md  # Model integration guide
+├──lib/
+|  ├── main.dart               # Entry point
+|  ├── screens/
+│      ├── logo_screen.dart    # Splash screen
+│      ├── onboarding_screen.dart  # Start and second pages
+│      ├── login_screen.dart   # Login screen
+│      ├── register_screen.dart # Registration screen
+│      ├── interests_screen.dart # Interests selection screen
+│      ├── home_screen.dart    # Home page with bottom navigation
+│      ├── learn_screen.dart   # Learning options
+│      ├── ai_screen.dart      # AI-driven learning path
+│      ├── map_screen.dart     # Map view for institutes
+│      ├── courses_screen.dart # Courses listing
+│      ├── notifications_screen.dart # Notifications
+│      ├── settings_screen.dart # Settings
+│      ├── account_screen.dart  # User account
+│      ├── ebook_screen.dart   # Ebook listings
+│      ├── certificate_screen.dart # Certificates
 └── README.md
 ```
 
