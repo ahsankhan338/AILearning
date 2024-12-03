@@ -55,24 +55,26 @@ The **AI Learning** mobile application leverages Artificial Intelligence (AI) to
 ## Project Structure
 ```
 ├──lib/
-|  ├── main.dart               # Entry point
+|  ├── main.dart                      # Entry point
 |  ├── screens/
-│      ├── logo_screen.dart    # Splash screen
-│      ├── onboarding_screen.dart  # Start and second pages
-│      ├── login_screen.dart   # Login screen
-│      ├── register_screen.dart # Registration screen
-│      ├── interests_screen.dart # Interests selection screen
-│      ├── home_screen.dart    # Home page with bottom navigation
-│      ├── learn_screen.dart   # Learning options
-│      ├── ai_screen.dart      # AI-driven learning path
-│      ├── map_screen.dart     # Map view for institutes
-│      ├── courses_screen.dart # Courses listing
-│      ├── notifications_screen.dart # Notifications
-│      ├── settings_screen.dart # Settings
-│      ├── account_screen.dart  # User account
-│      ├── ebook_screen.dart   # Ebook listings
-│      ├── certificate_screen.dart # Certificates
-└── README.md
+│      ├── logo_screen.dart           # Splash screen
+│      ├── onboarding_screen.dart     # Start and second pages
+│      ├── login_screen.dart          # Login screen
+│      ├── register_screen.dart       # Registration screen
+│      ├── interests_screen.dart      # Interests selection screen
+│      ├── home_screen.dart           # Home page with bottom navigation
+│      ├── learn_screen.dart          # Learning options
+│      ├── ai_screen.dart             # AI-driven learning path
+│      ├── map_screen.dart            # Map view for institutes
+│      ├── courses_screen.dart        # Courses listing
+│      ├── notifications_screen.dart  # Notifications
+│      ├── settings_screen.dart       # Settings
+│      ├── account_screen.dart        # User account
+│      ├── ebook_screen.dart          # Ebook listings
+│      ├── certificate_screen.dart    # Certificates
+├── Figma - Demo.md                   # Figma Prototype Link
+├── README.md
+└── System Specification Document
 ```
 ![image](https://github.com/user-attachments/assets/5083522c-9ab9-403e-a788-2f6adb6303a7)
 
